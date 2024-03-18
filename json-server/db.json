@@ -1,3 +1,24 @@
 {
-  "users": [{ "id": "1", "nome": "João da Silva", "email": "joao@mail.com" }]
+  "users": [
+    {
+      "id": "1",
+      "nome": "João da Silva",
+      "email": "joao@mail.com"
+    },
+    {
+      "id": "b610",
+      "nome": "José Antônio Oliveira",
+      "email": "jao@mail.com"
+    },
+    {
+      "id": "587e",
+      "nome": "Bruno",
+      "email": "bruno.figueredo@gmail.com"
+    },
+    {
+      "id": "daf0",
+      "nome": "iago",
+      "email": "figueredo@proton.com"
+    }
+  ]
 }

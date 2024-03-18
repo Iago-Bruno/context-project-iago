@@ -1,4 +1,4 @@
-import { useUser } from './UserContext';
+import { useUser } from "../context/UserContext";
 
 const Component3 = () => {
   let { show } = useUser();
